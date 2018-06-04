@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="mavendemo">
+  <artifact type="war" name="mavendemo">
     <output-path>$PROJECT_DIR$/out/artifacts/mavendemo</output-path>
-    <root id="root">
+    <root id="archive" name="mavendemo.war">
       <element id="javaee-facet-resources" facet="mavendemo/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
